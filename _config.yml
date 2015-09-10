@@ -115,8 +115,8 @@ baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: Reasy线前端工具
-description: 
+title: Reasy纯前端自动构建工具
+description: 基于FIS3构建
 theme: slate
 disqusname: minixalpha
 

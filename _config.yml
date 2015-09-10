@@ -111,13 +111,13 @@ disqus:
 #################################### global configure #######################################
 
 username: lwdgit
-baseurl: /StrayBirds
+baseurl: /reasy
 markdown: redcarpet
 safe: false
 highlighter: pygments
 title: Reasy线前端工具
 description: 
-theme: hack
+theme: time-machine
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka

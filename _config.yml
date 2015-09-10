@@ -117,7 +117,7 @@ safe: false
 highlighter: pygments
 title: Reasy线前端工具
 description: 
-theme: time-machine
+theme: slate
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka

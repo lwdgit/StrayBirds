@@ -117,7 +117,7 @@ safe: false
 highlighter: pygments
 title: Reasy纯前端自动构建工具
 description: 基于FIS3构建
-theme: slate
+theme: modernist 
 #disqusname: minixalpha#不使用评论
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka

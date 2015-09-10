@@ -45,7 +45,7 @@ timezone:      null
 #Site config
 title: reasy
 #description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Jekyll Theme
+keywords: Reasy
 url: /StrayBirds
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
@@ -103,9 +103,9 @@ follow:
 #    message: 其他相关链接
 
 #comment config
-disqus:
-  config: false
-  id: minixalpha
+#disqus:
+#  config: false
+#  id: minixalpha
 
 
 #################################### global configure #######################################
@@ -118,7 +118,7 @@ highlighter: pygments
 title: Reasy纯前端自动构建工具
 description: 基于FIS3构建
 theme: slate
-disqusname: minixalpha
+#disqusname: minixalpha#不使用评论
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes

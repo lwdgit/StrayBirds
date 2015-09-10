@@ -43,8 +43,8 @@ timezone:      null
 
 
 #Site config
-title: Jekyll Theme
-description: Just another Jekyll theme design and code by zhanxin.info.
+title: reasy
+#description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
 url: /StrayBirds
 feed: /atom.xml
@@ -111,7 +111,7 @@ disqus:
 #################################### global configure #######################################
 
 username: lwdgit
-baseurl: /reasy
+baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
